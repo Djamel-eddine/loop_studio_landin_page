@@ -4,7 +4,7 @@ function CreationsCard({ url, text }) {
   return (
     <div
       style={{
-        backgroundImage: { url },
+        backgroundImage: `url(${url})`,
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
       }}

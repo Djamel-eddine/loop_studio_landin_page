@@ -3,7 +3,7 @@ import React from "react";
 function Description() {
   return (
     <div>
-      <img src="./images/desctop/image-interactive.jpg" alt="vr-cover" />
+      <img src="./images/desktop/image-interactive.jpg" alt="vr-cover" />
       <div className="descriptionCard">
         <h1>the leader in interactive vr</h1>
         <small>

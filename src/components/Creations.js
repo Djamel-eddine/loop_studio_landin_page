@@ -7,14 +7,17 @@ function Creations() {
   }
 
   const cardsList = [
-    { url: "#", text: "deep earth" },
-    { url: "#", text: "deep earth" },
-    { url: "#", text: "deep earth" },
-    { url: "#", text: "deep earth" },
-    { url: "#", text: "deep earth" },
-    { url: "#", text: "deep earth" },
-    { url: "#", text: "deep earth" },
-    { url: "#", text: "deep earth" },
+    { url: "./images/desktop/image-deep-earth.jpg", text: "deep earth" },
+    { url: "./images/desktop/image-night-arcade.jpg", text: "night arcade" },
+    { url: "./images/desktop/image-soccer-team.jpg", text: "soccer team vr" },
+    { url: "./images/desktop/image-grid.jpg", text: "the grid" },
+    { url: "./images/desktop/image-from-above.jpg", text: "from up above vr" },
+    {
+      url: "./images/desktop/image-pocket-borealis.jpg",
+      text: "packet borealis",
+    },
+    { url: "./images/desktop/image-curiosity.jpg", text: "the curiosity" },
+    { url: "./images/desktop/image-fisheye.jpg", text: "make it fisheye" },
   ];
 
   return (
